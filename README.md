@@ -30,4 +30,4 @@ Computer Science Student @ California State University Fullerton
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/McGabriel99/pairs-trading" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=McGabriel99&repo=pairs-trading&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/McGabriel99/FindMyPawsFriend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=McGabriel99&repo=FindMyPawsFriend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/McGabriel99/pairs-trading" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=McGabriel99&repo=pairs-trading&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
